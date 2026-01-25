@@ -1,0 +1,30 @@
+[
+{
+    "name":"Yukiel",
+    "apellido":"Corona",
+    "edad":21,
+    "equios":["Equipo 1",
+    "Equipo 2",
+    "Equipo 3",
+    "Equipo 4"]
+},
+{
+    "name":"Arleth",
+    "apellido":"De JEsus",
+    "edad":22,
+    "equios":["Equipo 1",
+    "Equipo 2",
+    "Equipo 3",
+    "Equipo 4"]
+},
+{
+    "name":"Julieta",
+    "apellido":"Josefat",
+    "edad":23,
+    "equios":["Equipo 1",
+    "Equipo 2",
+    "Equipo 3",
+    "Equipo 4"]
+}
+
+]
